@@ -1,0 +1,505 @@
+[
+  {
+    "Course Code": "BIOL110",
+    "Course Title": "Introductory Biology",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL110",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL130",
+    "Course Title": "Introductory Cell Biology",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL130",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL150",
+    "Course Title": "Organismal Biology",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL150",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL165",
+    "Course Title": "Human Biology and Physiology",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL165",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL211",
+    "Course Title": "Molecular and Cellular Biology 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL211",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL239",
+    "Course Title": "Genetics",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL239",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL240",
+    "Course Title": "Fundamentals of Microbiology",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL240",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL241",
+    "Course Title": "Fundamentals of Microbiology Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL241",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL273",
+    "Course Title": "Introductory Ecology",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL273",
+    "Note": ""
+  },
+  {
+    "Course Code": "BIOL280",
+    "Course Title": "Introductory Biostatistics",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BIOL280",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM120",
+    "Course Title": "General Chemistry 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM120",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM120L",
+    "Course Title": "General Chemistry Laboratory 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM120L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM121",
+    "Course Title": "Physical and Chemical Properties of Matter",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM121",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM121L",
+    "Course Title": "Chemical Reaction Laboratory 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM121L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM123",
+    "Course Title": "General Chemistry 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM123",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM123L",
+    "Course Title": "General Chemistry Laboratory 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM123L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM125",
+    "Course Title": "Chemical Reactions, Equilibria and Kinetics",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM125",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM125L",
+    "Course Title": "Chemical Reaction Laboratory 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM125L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM140",
+    "Course Title": "Introduction to Scientific Calculations",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM140",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM200",
+    "Course Title": "Introduction to Laboratory Techniques",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM200",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM209",
+    "Course Title": "Introductory Spectroscopy and Structure",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM209",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM212",
+    "Course Title": "Structure and Bonding",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM212",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM220",
+    "Course Title": "Intro Analytical Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM220",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM220L",
+    "Course Title": "Quantitative Chemical Analysis Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM220L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM221",
+    "Course Title": "Multi-Component Analysis",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM221",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM224L",
+    "Course Title": "Analytical Instrumentation Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM224L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM233",
+    "Course Title": "Fundamentals of Biochemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM233",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM233L",
+    "Course Title": "Fundamentals of Biochemistry Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM233L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM237",
+    "Course Title": "Introductory Biochemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM237",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM237L",
+    "Course Title": "Introductory Biochemistry Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM237L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM240",
+    "Course Title": "Mathematical Methods for Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM240",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM250L",
+    "Course Title": "Physical Chemistry Laboratory 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM250L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM254",
+    "Course Title": "Introductory Chemical Thermodynamics",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM254",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM262",
+    "Course Title": "Organic Chemistry for Engineering",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM262",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM262L",
+    "Course Title": "Organic Chemistry Laboratory for Engineering Students",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM262L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM264",
+    "Course Title": "Organic Chemistry 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM264",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM265",
+    "Course Title": "Organic Chemistry 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM265",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM265L",
+    "Course Title": "Organic Chemistry Laboratory 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM265L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM266",
+    "Course Title": "Basic Organic Chemistry 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM266",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM266L",
+    "Course Title": "Organic Chemistry Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM266L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM267",
+    "Course Title": "Basic Organic Chemistry 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM267",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM267L",
+    "Course Title": "Organic Chemistry Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM267L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM310",
+    "Course Title": "Transition Element Compounds and Inorganic Materials",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM310",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM310L",
+    "Course Title": "Inorganic Chemistry Laboratory 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM310L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM313",
+    "Course Title": "Main Group and Solid State Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM313",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM313L",
+    "Course Title": "Inorganic Chemistry Laboratory 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM313L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM323",
+    "Course Title": "Analytical Instrumentation",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM323",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM331",
+    "Course Title": "Fundamentals of Metabolism 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM331",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM333",
+    "Course Title": "Metabolism 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM333",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM335L",
+    "Course Title": "Advanced Biochemistry Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM335L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM340",
+    "Course Title": "Introductory Computational Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM340",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM350",
+    "Course Title": "Chemical Kinetics and Statistical Mechanics",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM350",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM350L",
+    "Course Title": "Physical Chemistry Laboratory 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM350L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM356",
+    "Course Title": "Introductory Quantum Mechanics",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM356",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM357",
+    "Course Title": "Physical Biochemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM357",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM360",
+    "Course Title": "Organic Chemistry 3",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM360",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM360L",
+    "Course Title": "Senior Organic Chemistry Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM360L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM363",
+    "Course Title": "Organic Process Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM363",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM370",
+    "Course Title": "Introduction to Polymer Science",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM370",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM381",
+    "Course Title": "Bioorganic Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM381",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM382L",
+    "Course Title": "Advanced Organic Synthesis Laboratory",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM382L",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM383",
+    "Course Title": "Medicinal Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM383",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM392A",
+    "Course Title": "Research Project 1",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM392A",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM392B",
+    "Course Title": "Research Project 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM392B",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM400",
+    "Course Title": "Special Topics in Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM400",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM404",
+    "Course Title": "Physicochemical Aspects of Natural Waters",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM404",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM430",
+    "Course Title": "Special Topics in Biochemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM430",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM432",
+    "Course Title": "Metabolism 2",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM432",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM433",
+    "Course Title": "Advanced Biochemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM433",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM464",
+    "Course Title": "Spectroscopy in Organic Chemistry",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM464",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM481",
+    "Course Title": "Rational Design of Potential Drug Candidates",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM481",
+    "Note": ""
+  },
+  {
+    "Course Code": "CHEM494A",
+    "Course Title": "Research Project",
+    "Credits": "",
+    "Link": "https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/CHEM494A",
+    "
+(Content truncated due to size limit. Use page ranges or line ranges to read remaining content)
